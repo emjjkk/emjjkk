@@ -32,6 +32,9 @@ Because nothing says 'lean development' like a developer on a diet. Embark on a 
  - __The Developer's Guide to Communicating with Non-Techies: A Translation Manual__ - 
 Explaining code to your grandma without making her eyes glaze over. Dive into the art of translating complex technical concepts into layman's terms. Learn how to describe your job at family gatherings without causing confusion or glazed eyes. Spoiler alert: Comparing coding to building virtual castles might just be the key to making your grandma proud.
 
+# Activity
+
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunHnao&theme=radical)
 
 <!--
 **KunHnao/KunHnao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
