@@ -26,16 +26,3 @@ A software developer who spends his free time building things for the web. I lik
 ![](https://img.shields.io/badge/Vercel-5f02ff?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-
-
-
-
-
-
-### Programming Stats:
-
-<img src="https://wakatime.com/share/@Kun_Hnao/2bc834f2-ec0a-4d52-a1bf-324d98b36605.svg" width="full"/>
-
-
-
-
