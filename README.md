@@ -26,3 +26,28 @@ A software developer who spends his free time building things for the web. I lik
 ![](https://img.shields.io/badge/Vercel-5f02ff?style=for-the-badge&logo=vercel&logoColor=white)
 
 
+### Projects:
+Here are two of the projects that I've completed. I'm working on a lot more, and since I'm a big fan of open source, all my projects will eventually be available here on Github.
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/KunHnao/Mditor">
+        <img src="https://camo.githubusercontent.com/3dd0350d55a2af265606672b5ba6c560495bc783c27356313c6b4d1b464211b5/68747470733a2f2f692e6962622e636f2f363177524e31352f53637265656e73686f742d323032342d30322d30372d3134333533332e706e67"/>
+        <p>Mditor - Markdown Editor (NextJS, TailwindCSS)</p>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/KunHnao/Mditor">
+        <img src="https://github.com/KunHnao/ant/assets/49512755/875dadfc-38dc-4fdd-8e6c-75e002e7c249"/>
+        <p>Ant - URL Shortener (React, Flask)</p>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+### Coding Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunhnao&layout=donut&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunhnao&show_icons=true&theme=tokyonight&show=prs_merged_percentage)
