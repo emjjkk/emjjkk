@@ -47,7 +47,4 @@ Here are two of the projects that I've completed. I'm working on a lot more, and
 </table>
 
 
-### Coding Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunhnao&layout=donut&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunhnao&show_icons=true&theme=tokyonight&show=prs_merged_percentage)
