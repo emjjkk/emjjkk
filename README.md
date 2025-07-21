@@ -1,1 +1,1 @@
-College student and software engineer, at the moment I mostly full-stack web development. I also build mobile apps, discord bots, and other things. I mostly work with Javascript and Python-based frameworks.
+College student and software engineer, at the moment I mostly do full-stack web development with NextJS or Django. I also build mobile apps, discord bots, and other things. I mostly work with Javascript and Python-based frameworks.
