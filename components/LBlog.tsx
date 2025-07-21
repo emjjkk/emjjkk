@@ -4,7 +4,7 @@ import { LuArrowUpRight } from 'react-icons/lu';
 import useMediumFeed from "@/hooks/useMediumFeed";
 
 export default function LBlog() {
-  const { posts, loading } = useMediumFeed("/api/blog-feed"); // updated to use your server route
+  const { posts, loading } = useMediumFeed(); // updated to use your server route
 
   return (
     <div className="mt-10">
