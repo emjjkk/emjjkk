@@ -1,1 +1,1 @@
-College student and software engineer from Thailand, currently specializing in full-stack web development. I also build mobile apps, discord bots, and other things. I mostly work with Javascript and Python-based frameworks.
+College student and software engineer, at the moment full-stack web development. I also build mobile apps, discord bots, and other things. I mostly work with Javascript and Python-based frameworks.
