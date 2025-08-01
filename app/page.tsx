@@ -16,7 +16,6 @@ export default function Home() {
       <div className="w-full md:w-[46%] h-full p-2 md:p-5 overflow-y-scroll">
 
         {/* MOBILE SIDEBAR */}
-        {/* MOBILE MENU BUTTON */}
         <div className="block md:hidden z-50">
           <button onClick={() => setIsOpen(true)}>
             <LuMenu className="text-2xl mb-5" />
@@ -42,7 +41,7 @@ export default function Home() {
         </div>
 
         <h1 className="text-3xl mb-2 md:mt-5">I'm Emmanuel Alabi, a software developer.<br />Welcome to my space.</h1>
-        <p className="text-sm mb-4">College student and software engineer currently based in Rwanda. At the moment I mostly do full-stack web development. I also build mobile apps, discord bots, and other things. I mostly work with Javascript and Python-based frameworks.</p>
+        <p className="text-sm mb-4">College student and software engineer currently based in Rwanda. At the moment I mostly do full-stack web development. I also build mobile apps, and embedded systems like Discord bots and Chrome extensions. I'm especially proficient with Javascript and Python-based frameworks.</p>
         <div className="flex gap-2">
           <a href="#" className="hover:cursor-pointer">
             <button className="relative px-2 py-1 text-sm border border-2 border-foreground overflow-hidden group">
