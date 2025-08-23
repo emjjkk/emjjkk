@@ -11,7 +11,7 @@ Heyo, I'm a college student and software developer based (at least for now) in R
 - Serval: Discord based gamified economy built on simultated crypto trading
 - Stage Infinite: Esports fantasy-betting platform with in-game currency
 
-**I offer really (like super duper) affordable web development  services (Landing pages, ecommerce, blogs)!** Reach out on whatsapp (+250 724 684 275), Email [alabiemmanuel029@gmail.com](mailto:alabiemmanuel029@gmail.com), or Discord (for more casual jobs) @emjjkk.
+> **I offer really (like super duper) affordable web development  services (Landing pages, ecommerce, blogs)!** Reach out on whatsapp (+250 724 684 275), Email [alabiemmanuel029@gmail.com](mailto:alabiemmanuel029@gmail.com), or Discord (for more casual jobs) @emjjkk.
 
 ###
 
