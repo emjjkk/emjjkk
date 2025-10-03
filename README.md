@@ -4,10 +4,11 @@ Heyo, I'm a college student and software developer based for now in Rwanda, and 
 
 (Kinda) fun facts about me: I'm biracial (half thai, half nigerian)! If i'm not coding you'll most likely find me gaming (Valorant, Strinova, etc). I'm a big fan of all things speed - hopefully one day I'll get to drive a Mustang GTD.
 
-**Projects I'm proud of**
+**Some projects**
 
 - [Dreamweaver](https://github.com/emjjkk/Dreamweaver) - AI image generation discord bot that runs on edge.
-- [dictionary](https://github.com/emjjkk/dictionary) - Simple, clean dictionary web app
+- [Vistab](https://github.com/emjjkk/Vistab) - Minimal, modern new tab for chrome.
+- [dictionary](https://github.com/emjjkk/dictionary) - Simple, clean dictionary web app.
 
 > **I offer really (like super duper) affordable web development  services (Landing pages, ecommerce, blogs)!** Reach out on whatsapp (+250 724 684 275), Email [alabiemmanuel029@gmail.com](mailto:alabiemmanuel029@gmail.com), or Discord (for more casual jobs) @e.mjjkk.
 
