@@ -1,8 +1,4 @@
-Thanks for visiting - you must really have a lot of time on your hands-
-
-Heyo, I'm a college student and software developer based for now in Rwanda, and I'm currently focusing on full-stack web development. I'm familiar with Javascript- (NextJS, Astro, Remix, etc) and Python (Flask, Django) based frameworks for web development. I can also build cross-platform mobile apps with React Native and other things like discord bots, chrome extensions, and tampermonkey scripts. I also have some self-taught skills in ethical hacking so I occassionally do bug bounty.
-
-(Kinda) fun facts about me: I'm biracial (half thai, half nigerian)! If i'm not coding you'll most likely find me gaming (Valorant, Strinova, etc). I'm a big fan of all things speed - hopefully one day I'll get to drive a Mustang GTD.
+I'm a uni cs student currently specializing in full-stack webdev. I work mostly with Javascript- (NextJS, Astro) and Python- (Flask, Django) based frameworks. I also build other things like discord bots, chrome extensions, and mobile applications with React Native. When I'm not coding, I'm probably studying. If it's neither of those, I'm playing games (ZZZ, Valorant, The Finals, etc.), doing tiktok edits @khydsai.fx, or sleeping peacefully.
 
 **Some projects**
 
@@ -10,10 +6,6 @@ Heyo, I'm a college student and software developer based for now in Rwanda, and 
 - [Vistab](https://github.com/emjjkk/Vistab) - Minimal, modern new tab for chrome.
 - [dictionary](https://github.com/emjjkk/dictionary) - Simple, clean dictionary web app.
 
-> **I offer really (like super duper) affordable web development  services (Landing pages, ecommerce, blogs)!** Reach out on whatsapp (+250 724 684 275), Email [alabiemmanuel029@gmail.com](mailto:alabiemmanuel029@gmail.com), or Discord (for more casual jobs) @e.mjjkk.
-
-###
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emjjkk&langs_count=10&layout=compact&theme=tokyonight)
+**Reach me**: [Whatsapp](https://wa.me/+25024684275) | [Discord](https://discord.com/users/1100072616317952040) | [Email](mailto:emmanuel.opalabi@gmail.com)
 
 
