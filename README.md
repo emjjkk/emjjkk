@@ -6,6 +6,6 @@ I'm a uni cs student currently specializing in full-stack webdev. I work mostly 
 - [Vistab](https://github.com/emjjkk/Vistab) - Minimal, modern new tab for chrome.
 - [dictionary](https://github.com/emjjkk/dictionary) - Simple, clean dictionary web app.
 
-**Reach me**: [Whatsapp](https://wa.me/+25024684275) | [Discord](https://discord.com/users/1100072616317952040) | [Email](mailto:emmanuel.opalabi@gmail.com)
+**Reach me**: [Whatsapp](https://wa.me/+250724684275) | [Discord](https://discord.com/users/1100072616317952040) | [Email](mailto:emmanuel.opalabi@gmail.com)
 
 
