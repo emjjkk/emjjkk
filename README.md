@@ -9,6 +9,8 @@ Some Projects:
 - [Dreamweaver](https://dreamweaverdiscord.vercel.app) - A NextJS-based AI Image generation discord bot that runs 100% on edge and gives instant results. (temporarily down due to changes in hf pricing structures). *Built with DiscordJS, Supabase, HuggingFace Inference, Qwen-Image, NextJS*
 - [Vistab](https://github.com/emjjkk/vistab) - Chrome extension to bring a new minimal new tab to your browser, supporting custom image/video backgrounds, bookmarks, and more. *Built with Chrome Manifest V3, JQuery.*
 
+![](https://github-readme-stats2-olive.vercel.app/api?username=emjjkk&show_icons=true&title_color=00f&text_color=fff&iconcolor=fff&hide_border=true&bg_color=000&border_radius=5&count_private=true&include_all_commits=true)
+
 
 
 
