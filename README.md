@@ -1,3 +1,5 @@
+Your avg cs uni student from Thailand/Nigeria.
+
 I do web/app development and work mostly with Javascript- (NextJS, Astro) and Python- (Flask, Django) based frameworks.
 
 When not coding I make tiktok edits and play videogames.
