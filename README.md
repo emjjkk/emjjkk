@@ -16,6 +16,6 @@ My name is Emmanuel Alabi, but you can call me Thursday. Currently building full
 - [LinkedIn](https://linkedin.com/in/emjjkk) - I literally may never reply to you.
 
 
-<img width="120" height="auto" alt="image" src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" />
+<!-- <img width="120" height="auto" alt="image" src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" /> -->
 
 
