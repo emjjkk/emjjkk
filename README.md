@@ -1,4 +1,4 @@
-My name is Emmanuel Alabi, but you can call me Thursday. Currently building full-stack web applications with a focus on performance and optimization. I also build native mobile and desktop apps as well as third-party integrations. You can find out more about me on my website https://emjjkk.tech. That's also where you can find out how to contact me for collaboration or work enquiries.
+My name is Emmanuel Alabi, but you can call me Thursday. Thai-Nigerian dev based in Rwanda for now. Currently building full-stack web applications with a focus on performance and optimization. I also build native mobile and desktop apps as well as third-party integrations. You can find out more about me on my website https://emjjkk.tech. That's also where you can find out how to contact me for collaboration or work enquiries.
 
 #### Tech
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
