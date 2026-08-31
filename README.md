@@ -16,6 +16,8 @@ My name is Emmanuel Alabi, but you can call me Thursday. Thai-Nigerian dev based
 ![image](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=PocketBase&logoColor=white)
 ![image](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=emjjkk&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=vision-friendly-dark)
+
 #### Some projects
 
 - [Livewall](https://github.com/emjjkk/livewall): Lightweight wallpaper engine for Windows built with Tauri (Rust) and Typescript for video wallpapers (only 10MB!).
