@@ -1,6 +1,5 @@
 My name is Emmanuel Alabi, but you can call me Thursday. Thai-Nigerian dev based in Rwanda for now. Currently building full-stack web applications with a focus on performance and optimization. I also build native mobile and desktop apps as well as third-party integrations. You can find out more about me on my website https://emjjkk.tech. That's also where you can find out how to contact me for collaboration or work enquiries.
 
-#### Tech
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
@@ -16,16 +15,36 @@ My name is Emmanuel Alabi, but you can call me Thursday. Thai-Nigerian dev based
 ![image](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=PocketBase&logoColor=white)
 ![image](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=emjjkk&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=vision-friendly-dark)
+## Some Projects
 
-#### Some projects
+### <img width="20" height="20" alt="82fcd214-5d21-4d68-9f2c-d5224942a79f" src="https://github.com/user-attachments/assets/bb6e8f05-7a3f-4979-9e99-a6e0233dd5ba" />  weflixd.live (https://github.com/emjjkk/weflix.live)
 
+Movie and TV show discovery platform with social features. It combines live data from The Movie Database (TMDB) with a Supabase-backed social layer, letting users browse and search titles, build a watchlist, log what they have watched with ratings and reviews, follow other members, and get personalized recommendations.
+
+<img width="auto" height="220" alt="WhatsApp Image 2026-09-18 at 16 35 17" src="https://github.com/user-attachments/assets/a5fad3f4-7031-46dd-892a-b48d92bf5e58" />
+<img width="auto" height="220" alt="WhatsApp Image 2026-09-18 at 16 39 10" src="https://github.com/user-attachments/assets/33e2a661-223e-41fb-9622-fa5fe542314e" />
+<img width="auto" height="220" alt="WhatsApp Image 2026-09-18 at 16 35 18" src="https://github.com/user-attachments/assets/a426321a-6bad-424e-ad61-68a10e0f2d7f" />
+<img width="auto" height="220" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/98bc53ca-d379-45d3-95a8-9d6c8906771d" />
+
+### <img width="22" height="22" alt="82fcd214-5d21-4d68-9f2c-d5224942a79f" src="https://private-user-images.githubusercontent.com/49512755/642207067-867e1331-de28-4a1e-88c5-97f384ca1f70.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk3NDE5NzAsIm5iZiI6MTc4OTc0MTY3MCwicGF0aCI6Ii80OTUxMjc1NS82NDIyMDcwNjctODY3ZTEzMzEtZGUyOC00YTFlLTg4YzUtOTdmMzg0Y2ExZjcwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE4VDE0Mjc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MTdlNDAwNzk0M2NiMmI2NDY0NjMzZjMxMzhjNjJmNDdhYzc5MDRhODIxMmEyOTdjY2UwMTU4YmQyMzliNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.vPKaSIxOHaxxGXOiF5zIU60Cj3nxB-TnJbsJj5vAhps" /> Livewall (https://github.com/emjjkk/livewall)
+
+Livewall runs as a tray application and lets you use an image, video, or webpage as your desktop wallpaper. You can also place arbitrary URLs on top of the wallpaper as interactive, resizable widgets.
+
+<img width="auto" height="220" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/3d22adb1-dee5-4bc3-82d6-d52b850258ce" />
+<img width="auto" height="220" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/a70d961c-0389-4dc4-b636-b60fdd2a2995" />
+
+
+
+
+
+
+
+<!--
 - [Livewall](https://github.com/emjjkk/livewall): Lightweight wallpaper engine for Windows built with Tauri (Rust) and Typescript for video wallpapers (only 10MB!).
 - [beat-detection](https://github.com/emjjkk/beat-detection): Python script for detecting beats and onsets from audio files and exporting as .edl files for video editing software.
 - [MyDE](https://github.com/emjjkk/myde): Local-first browser IDE with LLM model support built with NextJS (Typescript).
 - [Ngozi's Kitchen](https://www.ngozis-kitchen.co.uk/): client webdev work - a full stack catering website with an admin dashboard.
 
-<!-- 
 <img width="18" height="auto" alt="image" src="https://cdn3.emoji.gg/emojis/369335-wonyounghappy.gif" />
 <img width="18" height="auto" alt="image" src="https://cdn3.emoji.gg/emojis/80350-wonyoungfrustrated.gif" />
 -->
