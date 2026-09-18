@@ -17,7 +17,7 @@ My name is Emmanuel Alabi, but you can call me Thursday. Thai-Nigerian dev based
 
 ## Some Projects
 
-### <img width="20" height="20" alt="82fcd214-5d21-4d68-9f2c-d5224942a79f" src="https://github.com/user-attachments/assets/bb6e8f05-7a3f-4979-9e99-a6e0233dd5ba" />  weflixd.live (https://github.com/emjjkk/weflix.live)
+### <img width="20" height="20" alt="82fcd214-5d21-4d68-9f2c-d5224942a79f" src="https://github.com/user-attachments/assets/bb6e8f05-7a3f-4979-9e99-a6e0233dd5ba" />  weflixd.live (https://github.com/emjjkk/weflixd.live)
 
 Movie and TV show discovery platform with social features. It combines live data from The Movie Database (TMDB) with a Supabase-backed social layer, letting users browse and search titles, build a watchlist, log what they have watched with ratings and reviews, follow other members, and get personalized recommendations.
 
