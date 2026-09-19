@@ -21,17 +21,9 @@ My name is Emmanuel Alabi, but you can call me Thursday. Thai-Nigerian dev based
 
 Movie and TV show discovery platform with social features. It combines live data from The Movie Database (TMDB) with a Supabase-backed social layer, letting users browse and search titles, build a watchlist, log what they have watched with ratings and reviews, follow other members, and get personalized recommendations.
 
-<img width="auto" height="220" alt="WhatsApp Image 2026-09-18 at 16 35 17" src="https://github.com/user-attachments/assets/a5fad3f4-7031-46dd-892a-b48d92bf5e58" />
-<img width="auto" height="220" alt="WhatsApp Image 2026-09-18 at 16 39 10" src="https://github.com/user-attachments/assets/33e2a661-223e-41fb-9622-fa5fe542314e" />
-<img width="auto" height="220" alt="WhatsApp Image 2026-09-18 at 16 35 18" src="https://github.com/user-attachments/assets/a426321a-6bad-424e-ad61-68a10e0f2d7f" />
-<img width="auto" height="220" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/98bc53ca-d379-45d3-95a8-9d6c8906771d" />
-
 ### <img width="22" height="22" alt="82fcd214-5d21-4d68-9f2c-d5224942a79f" src="https://private-user-images.githubusercontent.com/49512755/642207067-867e1331-de28-4a1e-88c5-97f384ca1f70.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk3NDE5NzAsIm5iZiI6MTc4OTc0MTY3MCwicGF0aCI6Ii80OTUxMjc1NS82NDIyMDcwNjctODY3ZTEzMzEtZGUyOC00YTFlLTg4YzUtOTdmMzg0Y2ExZjcwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE4VDE0Mjc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MTdlNDAwNzk0M2NiMmI2NDY0NjMzZjMxMzhjNjJmNDdhYzc5MDRhODIxMmEyOTdjY2UwMTU4YmQyMzliNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.vPKaSIxOHaxxGXOiF5zIU60Cj3nxB-TnJbsJj5vAhps" /> Livewall (https://github.com/emjjkk/livewall)
 
 Livewall runs as a tray application and lets you use an image, video, or webpage as your desktop wallpaper. You can also place arbitrary URLs on top of the wallpaper as interactive, resizable widgets.
-
-<img width="auto" height="220" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/3d22adb1-dee5-4bc3-82d6-d52b850258ce" />
-<img width="auto" height="220" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/a70d961c-0389-4dc4-b636-b60fdd2a2995" />
 
 
 
