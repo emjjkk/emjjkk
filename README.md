@@ -21,25 +21,7 @@ My name is Emmanuel Alabi, but you can call me Thursday. Thai-Nigerian dev based
 
 Movie and TV show discovery platform with social features. It combines live data from The Movie Database (TMDB) with a Supabase-backed social layer, letting users browse and search titles, build a watchlist, log what they have watched with ratings and reviews, follow other members, and get personalized recommendations.
 
-### <img width="22" height="22" alt="82fcd214-5d21-4d68-9f2c-d5224942a79f" src="https://private-user-images.githubusercontent.com/49512755/642207067-867e1331-de28-4a1e-88c5-97f384ca1f70.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk3NDE5NzAsIm5iZiI6MTc4OTc0MTY3MCwicGF0aCI6Ii80OTUxMjc1NS82NDIyMDcwNjctODY3ZTEzMzEtZGUyOC00YTFlLTg4YzUtOTdmMzg0Y2ExZjcwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE4VDE0Mjc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MTdlNDAwNzk0M2NiMmI2NDY0NjMzZjMxMzhjNjJmNDdhYzc5MDRhODIxMmEyOTdjY2UwMTU4YmQyMzliNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.vPKaSIxOHaxxGXOiF5zIU60Cj3nxB-TnJbsJj5vAhps" /> Livewall (https://github.com/emjjkk/livewall)
+### <img width="22" height="22" alt="82fcd214-5d21-4d68-9f2c-d5224942a79f" src="https://github.com/user-attachments/assets/0ec93a03-5d39-4c2f-a8c7-3285fc2ecbf4" /> Livewall (https://github.com/emjjkk/livewall)
 
 Livewall runs as a tray application and lets you use an image, video, or webpage as your desktop wallpaper. You can also place arbitrary URLs on top of the wallpaper as interactive, resizable widgets.
-
-
-
-
-
-
-
-<!--
-- [Livewall](https://github.com/emjjkk/livewall): Lightweight wallpaper engine for Windows built with Tauri (Rust) and Typescript for video wallpapers (only 10MB!).
-- [beat-detection](https://github.com/emjjkk/beat-detection): Python script for detecting beats and onsets from audio files and exporting as .edl files for video editing software.
-- [MyDE](https://github.com/emjjkk/myde): Local-first browser IDE with LLM model support built with NextJS (Typescript).
-- [Ngozi's Kitchen](https://www.ngozis-kitchen.co.uk/): client webdev work - a full stack catering website with an admin dashboard.
-
-<img width="18" height="auto" alt="image" src="https://cdn3.emoji.gg/emojis/369335-wonyounghappy.gif" />
-<img width="18" height="auto" alt="image" src="https://cdn3.emoji.gg/emojis/80350-wonyoungfrustrated.gif" />
--->
-<!-- <img width="120" height="auto" alt="image" src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" /> -->
-
 
